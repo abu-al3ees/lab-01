@@ -5,100 +5,110 @@
     }
     body ,html{
         width: 600px;
-        height: 75px;
+        height: 750px;
 
     }
     main{
         width: 600px;
-        height: 75px;
+        height: 750px;
 
     }
 .container{
     background-color: rgb(161, 161, 156);
     width: 500px;
-    height: 75px;
+    height: 604px;
     margin: auto;
+    display: grid;
+    grid-template-rows: 2fr 1fr 1fr 1fr 1fr 1fr 1fr  ;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: 35% auto;
+}
+.grid3{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-rows: 60% auto;
+}
+.grid4{
+    display: grid;
+    grid-template-columns: 1fr;
+
+
+}
+.grid5{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    height: 200px;
+
 }
 .a{
     background-color: rgb(163, 170, 163);
-    width: 500px;
-    height: 125px;
+    /* width: 500px;
+    height: 125px; */
     border: 1px solid black;
 }
 .b{
     background-color: rgb(163, 170, 163);
-    width: 500px;
-    height: 125px;
+    /* width: 500px;
+    height: 125px; */
     border: 1px solid black;
     text-align: center;
 
 }
-.right{
-    position: relative;
-   display:block;
-   top: 0px;
-    right: 0;
-}
+
 .c{
     background-color: rgb(163, 170, 163);
-    width: 500px;
-    height: 125px;
+    /* width: 500px;
+    height: 125px; */
     border: 1px solid black;
     text-align: center;
 }
 .d{
     background-color: rgb(163, 170, 163);
-    width:  500px;
-    height: 125px;
+    /* width:  500px;
+    height: 125px; */
     border: 1px solid black;
     text-align: center;
 }
-.right-bottom{
-display:flex;
-position: relative;
-top: 0;
-    right: 0;
-    flex: 1 0 250px;
-flex-wrap: wrap-reverse;
-}
+
 .e{
     background-color: rgb(163, 170, 163);
-    width: 250px;
-    height: 260px;
+    /* width: 250px;
+    height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .f{
     background-color: rgb(163, 170, 163);
-    width: 250px;
-height: 260px;
+    /* width: 250px;
+height: 260px; */
 border: 1px solid black;
 text-align: center;
 }
 .g{
     background-color: rgb(163, 170, 163);
-    width: 250px;
-    height: 260px;
+    /* width: 250px;
+    height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .h{
     background-color: rgb(163, 170, 163);
-    width: 250px;
-    height: 260px;
+    /* width: 250px;
+    height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .i{
     background-color: rgb(163, 170, 163);
-    width: 500px;
-    height: 80px;
+  
+    height: 80px; 
     border: 1px solid black;
     text-align: center;
-position: relative;
-top: 0;
-bottom: 0;
-left: 0;
+
   
 }
 div p{
