@@ -14,7 +14,7 @@
 
     }
 .container{
-    background-color: rgb(161, 161, 156);
+    background-color: rgb(95, 156, 55);
     width: 500px;
     height: 604px;
     margin: auto;
@@ -45,13 +45,13 @@
 
 }
 .a{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(37, 51, 37);
     /* width: 500px;
     height: 125px; */
     border: 1px solid black;
 }
 .b{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(75, 165, 180);
     /* width: 500px;
     height: 125px; */
     border: 1px solid black;
@@ -60,14 +60,14 @@
 }
 
 .c{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(11, 29, 11);
     /* width: 500px;
     height: 125px; */
     border: 1px solid black;
     text-align: center;
 }
 .d{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(35, 46, 9);
     /* width:  500px;
     height: 125px; */
     border: 1px solid black;
@@ -75,7 +75,7 @@
 }
 
 .e{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(42, 49, 148);
     /* width: 250px;
     height: 260px; */
     border: 1px solid black;
@@ -89,21 +89,21 @@ border: 1px solid black;
 text-align: center;
 }
 .g{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(211, 155, 52);
     /* width: 250px;
     height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .h{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(173, 85, 110);
     /* width: 250px;
     height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .i{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(8, 19, 8);
   
     height: 80px; 
     border: 1px solid black;
@@ -167,13 +167,13 @@ div p{
 
 }
 .a{
-    background-color: rgb(163, 170, 163);
+    background-color:chartreuse;
     /* width: 500px;
     height: 125px; */
     border: 1px solid black;
 }
 .b{
-    background-color: rgb(163, 170, 163);
+    background-color:darkgray;
     /* width: 500px;
     height: 125px; */
     border: 1px solid black;
@@ -182,14 +182,14 @@ div p{
 }
 
 .c{
-    background-color: rgb(163, 170, 163);
+    background-color:darkred;
     /* width: 500px;
     height: 125px; */
     border: 1px solid black;
     text-align: center;
 }
 .d{
-    background-color: rgb(163, 170, 163);
+    background-color:deeppink;
     /* width:  500px;
     height: 125px; */
     border: 1px solid black;
@@ -197,35 +197,35 @@ div p{
 }
 
 .e{
-    background-color: rgb(163, 170, 163);
+    background-color:gold;
     /* width: 250px;
     height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .f{
-    background-color: rgb(163, 170, 163);
+    background-color:orangered;
     /* width: 250px;
 height: 260px; */
 border: 1px solid black;
 text-align: center;
 }
 .g{
-    background-color: rgb(163, 170, 163);
+    background-color:plum;
     /* width: 250px;
     height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .h{
-    background-color: rgb(163, 170, 163);
+    background-color:darkgreen;
     /* width: 250px;
     height: 260px; */
     border: 1px solid black;
     text-align: center;
 }
 .i{
-    background-color: rgb(163, 170, 163);
+    background-color: rgb(111, 170, 111);
   
     height: 80px; 
     border: 1px solid black;
