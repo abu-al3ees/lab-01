@@ -1,79 +1,92 @@
+
+.grid2{
+    display: grid;
+    grid-template-columns: 20% auto;
+}
+.grid3{
+    display: grid;
+    grid-template-rows: 25% auto 25%;
+}
+.grid4{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.grid5{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+
+
+
+
+
+
 .a{
     background-color: rgb(163, 170, 163);
-    width: 960px;
-    height: 100px;
+    /* width: 960px;
+    height: 100px; */
     border: 1px solid black;
 }
 .b{
     background-color: rgb(163, 170, 163);
-    width: 200px;
-    height: 600px;
+    /* width: 200px;
+    height: 600px; */
     border: 1px solid black;
     text-align: center;
 
 }
-.right{
-    display: inline-flex;
-    position: absolute;
-    top: 100px;
-    right: 280px;
-}
+
 .c{
     background-color: rgb(163, 170, 163);
-    width: 380px;
-    height: 200px;
+    /* width: 380px;
+    height: 200px; */
     border: 1px solid black;
     text-align: center;
 }
 .d{
     background-color: rgb(163, 170, 163);
-    width: 380px;
-    height: 200px;
+    /* width: 380px;
+    height: 200px; */
     border: 1px solid black;
     text-align: center;
 }
-.right-bottom{
-    display: inline-flex;
-    position: absolute;
-    top: 300px;
-    right: 280px;
 
-}
 .e{
     background-color: rgb(163, 170, 163);
-    width: 190px;
-    height: 250px;
+    /* width: 190px;
+    height: 250px; */
     border: 1px solid black;
     text-align: center;
 }
 .f{
     background-color: rgb(163, 170, 163);
-width: 190px;
-height: 250px;
+/* width: 190px;
+height: 250px; */
 border: 1px solid black;
 text-align: center;
 }
 .g{
     background-color: rgb(163, 170, 163);
-    width: 190px;
-    height: 250px;
+    /* width: 190px;
+    height: 250px; */
     border: 1px solid black;
     text-align: center;
 }
 .h{
     background-color: rgb(163, 170, 163);
-    width: 190px;
-    height: 250px;
+    /* width: 190px;
+    height: 250px; */
     border: 1px solid black;
     text-align: center;
 }
 .i{
     background-color: rgb(163, 170, 163);
-    width: 760px;
-    height: 150px;
-    position: relative;
+    /* width: 760px;
+    height: 150px; */
+    /* position: relative;
     bottom: 150px;
-    left: 200px;
+    left: 200px; */
     border: 1px solid black;
     text-align: center;
   
