@@ -1,0 +1,109 @@
+@media (max-width: 600px){
+
+    *{
+        box-sizing: border-box;
+    }
+    body ,html{
+        width: 600px;
+        height: 75px;
+
+    }
+    main{
+        width: 600px;
+        height: 75px;
+
+    }
+.container{
+    background-color: rgb(161, 161, 156);
+    width: 500px;
+    height: 75px;
+    margin: auto;
+}
+.a{
+    background-color: rgb(163, 170, 163);
+    width: 500px;
+    height: 125px;
+    border: 1px solid black;
+}
+.b{
+    background-color: rgb(163, 170, 163);
+    width: 500px;
+    height: 125px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+.right{
+    position: relative;
+   display:block;
+   top: 0px;
+    right: 0;
+}
+.c{
+    background-color: rgb(163, 170, 163);
+    width: 500px;
+    height: 125px;
+    border: 1px solid black;
+    text-align: center;
+}
+.d{
+    background-color: rgb(163, 170, 163);
+    width:  500px;
+    height: 125px;
+    border: 1px solid black;
+    text-align: center;
+}
+.right-bottom{
+display:flex;
+position: relative;
+top: 0;
+    right: 0;
+    flex: 1 0 250px;
+flex-wrap: wrap-reverse;
+}
+.e{
+    background-color: rgb(163, 170, 163);
+    width: 250px;
+    height: 260px;
+    border: 1px solid black;
+    text-align: center;
+}
+.f{
+    background-color: rgb(163, 170, 163);
+    width: 250px;
+height: 260px;
+border: 1px solid black;
+text-align: center;
+}
+.g{
+    background-color: rgb(163, 170, 163);
+    width: 250px;
+    height: 260px;
+    border: 1px solid black;
+    text-align: center;
+}
+.h{
+    background-color: rgb(163, 170, 163);
+    width: 250px;
+    height: 260px;
+    border: 1px solid black;
+    text-align: center;
+}
+.i{
+    background-color: rgb(163, 170, 163);
+    width: 500px;
+    height: 80px;
+    border: 1px solid black;
+    text-align: center;
+position: relative;
+top: 0;
+bottom: 0;
+left: 0;
+  
+}
+div p{
+    text-align: center;
+}
+
+
+}

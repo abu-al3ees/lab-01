@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  background-color: cornsilk;
+}
+ .container{
+    background-color: rgb(161, 161, 156);
+     width: 960px;
+     height: 700px;
+     margin: auto;
+    
+ }
+
+
+
